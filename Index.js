@@ -51,5 +51,5 @@ app.post("/api/v1/signups", async(req,res)=>{
 
 
 app.listen(PORT, () => {
-    console.log(`http://localhost:${PORT}`)
+    console.log(`https://wenchen1114-dwd-gay-right-time-line.glitch.me/`)
   });
