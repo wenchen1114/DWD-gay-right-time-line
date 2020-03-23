@@ -32,6 +32,8 @@ $(".right_container__content").on("mouseover",function(){
           'Content-Type': 'application/json'
         },
       });
-  })
+      $('.left_content__signup___name').val() = '';
+      $('.left_content__signup___email').val() = '';
+    })
 })
 
