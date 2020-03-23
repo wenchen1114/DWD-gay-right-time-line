@@ -18,6 +18,9 @@ The format includes two-column, vertical time line, on the right, "scroll down" 
 
 Before creating the timeline, I looked up several tutorials to learn how to do it. After research, I found that ::after pseudo element would be the easiest way to create vertical timeline. To make sure all the elements are placed in the right place, I checked through inspector and adjust the element several times. During spring break, I learned a bit CSS animation in Udemy advanced CSS class, so I also tried to apply it into title. For the JavaScript part, I would like to create smooth fadeIn/fadeOut effect in the elements on the left, so the elements are set to show up after window reaching certain parts. On the back-end side, I use get and post to create a sign up tool, so that people can subscribe my further LGBTQ-related creation or latest LGBTQ news. The database is built on Mongodb. After all of it, I deploy my project on glitch, and revise the code back and forth based on the html page shown in glitch.
 
+## Glitch
+[https://wenchen1114-dwd-gay-right-time-line.glitch.me/](https://wenchen1114-dwd-gay-right-time-line.glitch.me/) 
+
 ## Reference
 
 Wikipedia - [https://zh.wikipedia.org/wiki/臺灣同性婚姻](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB) (Traditional Chinese)
