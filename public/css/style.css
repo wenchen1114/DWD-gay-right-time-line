@@ -44,6 +44,15 @@ body{
     background-image: url("./asset/1.jpeg");
 }
 
+.left_content__photo1 h2{
+    color: #ffffff;
+    position: absolute;
+    width: 70%;
+    top: 85%;
+    text-align: justify; 
+    line-height: 1.5em;
+}
+
 .left_content__box2{
     position: absolute;
     top:22%;
@@ -62,6 +71,15 @@ body{
     opacity: 1;
 }
 
+.left_content__photo2 h2{
+    color: #ffffff;
+    position: absolute;
+    width: 70%;
+    top: 85%;
+    text-align: justify; 
+    line-height: 1.5em;
+}
+
 .left_content__box3{
     position: absolute;
     top:32%;
@@ -69,6 +87,15 @@ body{
     height: 7%;
     margin-left: 12em;
     display: none;
+}
+
+.left_content__box3 h2{
+    color: #ffffff;
+    position: absolute;
+    width: 70%;
+    top: 85%;
+    text-align: justify; 
+    line-height: 1.5em;
 }
 
 .left_content__box4{
@@ -89,6 +116,15 @@ body{
     opacity: 1;
 }
 
+.left_content__photo4 h2{
+    color: #ffffff;
+    position: absolute;
+    width: 70%;
+    top: 90%;
+    text-align: justify; 
+    line-height: 1.5em;
+}
+
 .left_content__box5{
     position: absolute;
     top:52%;
@@ -107,6 +143,15 @@ body{
     opacity: 1;
 }
 
+.left_content__photo5 h2{
+    color: #ffffff;
+    position: absolute;
+    width: 70%;
+    top: 85%;
+    text-align: justify; 
+    line-height: 1.5em;
+}
+
 .left_content__box6{
     position: absolute;
     top:62%;
@@ -123,6 +168,15 @@ body{
     background-repeat: no-repeat;
     background-image: url("./asset/6.jpg");
     opacity: 1;
+}
+
+.left_content__photo6 h2{
+    color: #ffffff;
+    position: absolute;
+    width: 70%;
+    top: 102%;
+    text-align: justify; 
+    line-height: 1.5em;
 }
 
 .left_content__box7{
@@ -144,6 +198,15 @@ body{
     
 }
 
+.left_content__photo7 h2{
+    color: #ffffff;
+    position: absolute;
+    width: 70%;
+    top: 85%;
+    text-align: justify; 
+    line-height: 1.5em;
+}
+
 .left_content__box8{
     position: absolute;
     top:82%;
@@ -151,6 +214,15 @@ body{
     height: 7%;
     margin-left: 12em;
     display: none;
+}
+
+.left_content__photo8 h2{
+    color: #ffffff;
+    position: absolute;
+    width: 70%;
+    top: 85%;
+    text-align: justify; 
+    line-height: 1.5em;
 }
 
 .left_content__photo8{
@@ -262,7 +334,7 @@ body{
     top: 0;
     bottom: 0;
     left: 81%;
-    height: 608%;
+    height: 576.5%;
 }
 
 .right_container{
